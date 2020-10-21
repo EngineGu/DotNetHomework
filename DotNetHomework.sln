@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L2_GenericLinkedList", "L2_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L2_TickAlarmClock", "L2_TickAlarmClock\L2_TickAlarmClock.csproj", "{37255C10-FB45-4760-8BC1-9653BEB2D7A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L3_OrderSystem", "L3_OrderSystem\L3_OrderSystem.csproj", "{060A81A5-C0A9-4FB5-A4CB-8735A4A744DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L3_OrderSystemTests", "L3_OrderSystemTests\L3_OrderSystemTests.csproj", "{ADC2BE92-76C0-4E88-99BA-26A550D99B2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{37255C10-FB45-4760-8BC1-9653BEB2D7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37255C10-FB45-4760-8BC1-9653BEB2D7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37255C10-FB45-4760-8BC1-9653BEB2D7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{060A81A5-C0A9-4FB5-A4CB-8735A4A744DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060A81A5-C0A9-4FB5-A4CB-8735A4A744DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060A81A5-C0A9-4FB5-A4CB-8735A4A744DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060A81A5-C0A9-4FB5-A4CB-8735A4A744DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADC2BE92-76C0-4E88-99BA-26A550D99B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC2BE92-76C0-4E88-99BA-26A550D99B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC2BE92-76C0-4E88-99BA-26A550D99B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC2BE92-76C0-4E88-99BA-26A550D99B2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
