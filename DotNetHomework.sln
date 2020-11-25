@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L5_WindowsFormsParallelCraw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L6_EFOrderManage", "L6_OrderManage\L6_EFOrderManage.csproj", "{8158F784-FC86-40A4-A008-2BC157A35C02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L6_WebApiOrderManage", "L6_WebApiOrderManage\L6_WebApiOrderManage.csproj", "{744670DF-B910-4B9D-938D-8CFD3FEBA781}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{8158F784-FC86-40A4-A008-2BC157A35C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8158F784-FC86-40A4-A008-2BC157A35C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8158F784-FC86-40A4-A008-2BC157A35C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{744670DF-B910-4B9D-938D-8CFD3FEBA781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744670DF-B910-4B9D-938D-8CFD3FEBA781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744670DF-B910-4B9D-938D-8CFD3FEBA781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744670DF-B910-4B9D-938D-8CFD3FEBA781}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
